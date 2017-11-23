@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>Model2 MVC Shop : Hub</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
@@ -41,6 +41,6 @@
     <td height="20" background="/images/img_bg.gif">&nbsp;</td>
   </tr>
 </table>
-
+Çæ·© ÀÌ°Ô ¹¹·ª 
 </body>
 </html>
